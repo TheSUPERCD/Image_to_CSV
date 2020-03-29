@@ -1,0 +1,3 @@
+keras_ocr
+cv2
+autocorrect
